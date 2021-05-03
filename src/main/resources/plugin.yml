@@ -1,0 +1,6 @@
+name: EcloriaHeroKitPvP
+version: @version@
+main: ga.ecloriamc.EcloriaHeroKitPvP
+authors: [Zendraft]
+description: kit PvP Hero
+website: https://ecloriamc.ga/
